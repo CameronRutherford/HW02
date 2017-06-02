@@ -95,7 +95,7 @@ void do_remove_entry(Phone_Directory& the_directory) // Exercise 1.8: please com
 		cout << removedName << " was removed from the directory\n";
 	}
 	else {
-		cout << name << " was not found in the director\n";
+		cout << name << " is not in the directory\n";
 	}
 	
 }
